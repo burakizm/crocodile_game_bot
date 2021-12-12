@@ -252,7 +252,7 @@ def main():
     """
     Main bot function
     """
-    token = os.environ['TOKEN']
+    token = os.environ['5088160366:AAEmdgNpINiJFJyc9ltyyPa4dfwlREJVM_I']
     # Create the Updater and pass it your bot's token.
     updater = Updater(token, use_context=True)
 
