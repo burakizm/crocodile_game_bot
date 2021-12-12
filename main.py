@@ -3,7 +3,6 @@
 """
 Sultanov Andriy
 """
-import keys
 import os
 from random import shuffle, choice
 from datetime import datetime
